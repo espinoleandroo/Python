@@ -44,3 +44,38 @@ with open('./nombres/usuarios.txt', 'w') as fname:
     for usuario in usuarios:
         fname.write(usuario)
         fname.write("\n")
+
+#%%
+"""
+Lectura de archivos
+"""
+with open('./nombres/usuarios.txt',) as fname:
+    datos = fname.readlines()
+    
+print(datos)
+
+#%%
+"""
+Usando pathlib
+"""
+
+from pathlib import Path
+carpeta = Path('./nombres/')
+archivo = carpeta / "usuarios.txt"
+print(archivo)
+
+archivo.readtext();
+archivo.write_text('hola')
+
+
+
+
+
+
+
+
+
+
+
+
+
