@@ -1,19 +1,20 @@
-print("Hola esto es python")
+user_option = input("piedra, papel o tijera => ")
+computer_option = "tijera"
 
-print("Hola Soy Leandro y tengo 26 años")
-
-# Comentario entre lineas
-
-print(12 + 5)
-print(10 - 5)
-print(2 * 3)
-print(8 / 2)
-
-# Esto es un comentario
-
-'''
-Comentario
-de 
-varias
-lineas
-'''
+if user_option == computer_option:
+    print("Empate!")
+elif user_option == "piedra":
+    if computer_option == "tijera":
+        print("User gano!")
+    else:
+        print("Computer gano!")
+elif user_option == "papel":
+    if computer_option == "piedra":
+        print("User gano!")
+    else:
+        print("Computer gano!")
+elif user_option == "tijera":
+    if computer_option == "papel":
+        print("User gano!")
+    else:
+        print("Computer gano!")
