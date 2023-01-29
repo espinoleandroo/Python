@@ -1,15 +1,22 @@
-# Learning Python
+# Aprendiendo Python
 
 [![Python](https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
 <img src="icon.ico" width="100"/>
 
----
 ## Python
----
-### [Curso Fundamentos Python](./curso_fundamentos_python) | [Nicolas Molina](https://twitter.com/nicobytes) 
-### [Curso Básico Python](./curso_basico_python) | [Nicolas Molina](https://twitter.com/nicobytes)
-### [Curso Introducción Python](./curso_introduccion_python) | [Manuel Garrido](https://twitter.com/manugarri)
+
+ [Curso Fundamentos Python](./curso_fundamentos_python) | [Nicolas Molina](https://twitter.com/nicobytes) 
+ 
+ [Curso Básico Python](./curso_basico_python) | [Nicolas Molina](https://twitter.com/nicobytes)
+ 
+ [Curso Introducción Python](./curso_introduccion_python) | [Manuel Garrido](https://twitter.com/manugarri)
+
+## Backend
+### FastAPI
+## Data Science
+### Data
+### Visualización
 
 ---
 ¡Hoola!, te comparto mis apuntes de Python, espero te ayuden en tu travesía. así mismo y consideras que puedo mejorarlos, siéntete libre de dejar tu feedback.
