@@ -24,7 +24,7 @@
 
 [Mis Nootas](https://oval-surgeon-bc2.notion.site/Python-5dd31fcbfe324eefaf506a690c54a5a7)
 
-... y no olvides de dar una ⭐️ a este repositorio 😉
+... y no te olvides de dar una ⭐️ a este repositorio 😉
 
 ---
 <div style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;"><span style="font-style:italic;font-weight:600;color:rgba(212, 76, 71, 1);fill:rgba(212, 76, 71, 1)">Made with ❤️ by <a href ="https://espinoleandroo.github.io">EspinoLeandroo</a></span></div></div>
