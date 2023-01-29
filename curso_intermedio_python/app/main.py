@@ -1,25 +1,17 @@
 import utils
-
-data = [
-    {
-        'Country': 'Mexico',
-        'Population':500
-    },
-    {
-        'Country': 'Colombia',
-        'Population':400
-    }
-]
+import read_csv
+import charts
 
 def run():
-    keys, values = utils.get_population()
-    print(keys, values)
-
+    data = read_csv.read_csv("./data/working_with_files/world_population.csv")
     contry = input('Type Country: ')
 
-    result = utils.population_by_contry(data, contry)
-    print(result)
+    result = utils.population_by_country(data, contry)
 
+    if len(result) > 0:
+        country = result[0]
+        keys, values = utils.get_population(country)
+        charts.generate_bar_chart(keys, values)
 
 if __name__ == '__main__':
     run()
