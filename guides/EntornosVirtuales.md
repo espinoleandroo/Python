@@ -1,21 +1,18 @@
-Verificar donde esta python y pip
-    which python3
-    which pip3
+# Entornos Virtuales
 
-Si estas en linus o wsl debes instalar
+Un entorno virtual, es un directorio que contiene una instalación de Python de una versión en particular, además de unos cuantos paquetes adicionales.
+
+## Instalar en WSL
     sudo apt install -y python3-venv
 
-Poner cada proyecto en su propio ambiente, entrar en cada carpeta.
+## Crear un entorno virtual
     python3 -m venv env
 
-Activar el ambiente
+## Activar Entorno Virtual en WSL
     source env/bin/activate
 
-Salir del ambiente virtual
+## Activar Entorno Virtual en Windows
+    env\Scripts\activate.bat
+
+## Salir del Entorno Virtual
     deactivate
-
-Podemos instalar las librerias necesarias en el ambiente virtual como   
-    pip3 install matplotlib==3.5.0
-
-Verificar las instalaciones
-    pip3 freeze
