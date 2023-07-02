@@ -1,8 +1,14 @@
-Generar el archivo con el siguiente comando
-pip3 freeze > requirements.txt
+# Requirements
+Es el archivo que gestiona todas las dependencias y en que versiones se necesitan
 
-Revisar lo que hay dentro del archivo
-cat requirements.txt
+## Generar el archivo
 
-Instalar las dependencias necesarias para contribuir más rápido en proyectos
-pip3 install -r requirements.txt
+    pip3 freeze > requirements.txt
+
+## Revisar lo que hay dentro del archivo
+    
+    cat requirements.txt
+
+## Instalar las dependencias
+    
+    pip3 install -r requirements.txt
