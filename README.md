@@ -17,6 +17,7 @@
 | [Curso Introducción Python](./curso_introduccion_python)  | [Manuel Garrido](https://twitter.com/manugarri)   |
 | [Curso Intermedio Python](./curso_intermedio_python)      | [Nicolas Molina](https://twitter.com/nicobytes)   |
 | [Curso PIP y Entornos Virtuales](./guides/)      | [Nicolas Molina](https://twitter.com/nicobytes)   |
+| [Curso de Manipulación y Transformación de Datos con Pandas y NumPy](./curso_manipulacion_y_transformacion/)      | [Carlos Alarcón](https://twitter.com/alarcon7a)   |
 
 ---
 ## Backend
