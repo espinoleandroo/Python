@@ -17,7 +17,6 @@
 | [Curso Introducción Python](./curso_introduccion_python)  | [Manuel Garrido](https://twitter.com/manugarri)   |
 | [Curso Intermedio Python](./curso_intermedio_python)      | [Nicolas Molina](https://twitter.com/nicobytes)   |
 | [Curso PIP y Entornos Virtuales](./guides/)      | [Nicolas Molina](https://twitter.com/nicobytes)   |
-| [Curso de Manipulación y Transformación de Datos con Pandas y NumPy](./curso_manipulacion_y_transformacion/)      | [Carlos Alarcón](https://twitter.com/alarcon7a)   |
 
 ---
 ## Backend
@@ -26,7 +25,11 @@
 ---
 ## Data Science
 ### Data
-    Coming soon!
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+| CURSO                                                     | DOCENTE                                           |
+| :-------------------------------------------------------: | :-----------------------------------------------: |
+| [Curso de Manipulación y Transformación de Datos con Pandas y NumPy](./curso_manipulacion_y_transformacion/)      | [Carlos Alarcón](https://twitter.com/alarcon7a)   |
 ### Visualización
     Coming soon!
 ---
